@@ -84,9 +84,9 @@ img {
         text-align: center;
     }
     .linewidth {
-        /* margin-top: 20px; */
+        margin-top: 20px; 
         margin: auto;
-        width: calc(0em + 50vw);
+        width: calc(0em + 60vw);
     }
     .imgbox {
         margin-top: 20px;
